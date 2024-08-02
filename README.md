@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Katre</h1>
 <h3 align="center">A passionate Java (Android Developer) developer from India</h3>
 
-- 🌱 I’m currently learning and doing oninternship **Android dev**
+- 🌱 I’m currently learning and doing internship on **Android dev**
 
 - 📫 How to reach me **mayurdkatre2004@gmail.com**
 
